@@ -38,7 +38,7 @@
             Console.Write("Count by: ");
             step = Convert.ToInt32(Console.ReadLine());
 
-            if (step > 0) 
+            if (step > 0)
             {
                 for (int i = start; i <= end; i += step)
                 {
